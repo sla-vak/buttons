@@ -1,0 +1,99 @@
+#b1 {
+    font-family: monospace;
+    background-color: cornflowerblue;
+    border: none;
+    padding: 5px;
+    margin-left: 680px;
+    margin-top: 280px;
+    width: fit-content;
+}
+
+#b2 {
+    font-family: monospace;
+    background-color: rgb(31, 81, 175);
+    border: 2px solid rgb(0, 0, 0);
+    padding: 15px;
+    margin-left: 120px;
+    margin-top: 204px;
+    display: none;
+}
+
+#b3 {
+    font-family: sans-serif;
+    background-color: rgb(175, 31, 163);
+    border: 2px solid rgb(255, 0, 0);
+    padding: 15px;
+    margin-left: 1120px;
+    display: none;
+}
+
+#b4 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(31, 175, 120);
+    border: 2px solid rgb(132, 0, 255);
+    margin-left: 1120px;
+    display: none;
+}
+
+#b5 {
+    color: salmon;
+    font-family: cursive;
+    background-color: rgb(85, 18, 18);
+    border: 6px dashed rgb(251, 255, 0);
+    margin-top: -470px;
+    display: none;
+}
+
+#b6 {
+    color: rgb(184, 114, 250);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgba(0, 255, 64, 0.692);
+    border: 6px solid rgb(255, 174, 0);
+    margin-top: -40px;
+    margin-left: 178px;
+    display: none;
+}
+
+#b7 {
+    color: rgb(112, 48, 62);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(0, 110, 255);
+    border: 9px solid rgb(230, 205, 152);
+    padding: 30px;
+    margin-top: -40px;
+    margin-left: 1178px;
+    display: none;
+}
+
+#b8 {
+    color: rgb(48, 86, 112);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(0, 255, 34);
+    border: 6px solid rgb(216, 19, 127);
+    padding: 3px;
+    margin-top: -200px;
+    margin-left: 680px;
+    display: none;
+}
+
+#b9 {
+    color: rgb(159, 130, 221);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: rgb(18, 95, 53);
+    border: 2px solid rgb(0, 81, 255);
+    padding: 5px;
+    margin-top: -20px;
+    margin-left: 278px;
+    display: none;
+}
+
+#b10 {
+    color: rgb(61, 3, 15);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(118, 60, 133);
+    border: 8px dashed rgb(230, 205, 152);
+    padding: 60px;
+    margin-top: 160px;
+    margin-left: 120px;
+    display: none;
+}
